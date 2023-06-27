@@ -10,6 +10,7 @@ print(" ibu berkata, ' baca semua bukumu ")
 jumlah_dipahami = 0
 print(f"jumlah buku yang sudah dibaca dan dipahami {jumlah_dipahami}")
 
+
 print(" Dengan while ")
 while total_jumlah < buku * 2:
     total_jumlah = total_jumlah + 1
