@@ -26,3 +26,5 @@ if jumlah_dipahami == buku :
 else :
     print (f" bu, tidak semua buku bisa dipahami."
            f" budi hanya bisa memahami {jumlah_dipahami} buku ")
+
+
